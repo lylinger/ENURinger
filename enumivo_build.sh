@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/
 ##########################################################################
 # This is the Enumivo automated install script for Linux and Mac OS.
 # This file was downloaded from https://github.com/enumivo/enumivo
